@@ -34,3 +34,4 @@ Contributions are welcome! If you'd like to enhance the project or fix any issue
 
 - Inspired by the classic N-Queens problem in computer science.
 - Built with a passion for algorithms and visualizations.
+visit:https://github.com/Mausumi134/N-Queens-Visualizer
